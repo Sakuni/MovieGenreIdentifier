@@ -20,7 +20,7 @@ public class Classify {
 
     static ArrayList<String> classVal = new ArrayList();
     private static Classify classify_instence;
-    private String MODEL_LOCATION = "D:\\Eclipse\\Mov2.1_v2.3\\Mov2.1\\model3.model";
+    private String MODEL_LOCATION = "D:\\Final\\model3.model";
    // private String ARFF_LOCATION = "mvlist2.arff";
 
     private Classify() {
